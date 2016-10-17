@@ -1,0 +1,116 @@
+---
+title: "Resources"
+output: html_document
+---
+
+### RStudio Server
+* [ASU RStudio Server](https://mathr.math.appstate.edu/)
+
+### R
+* [R homepage](http://www.r-project.org/)
+* [Download R](http://cran.r-project.org/)
+* [Quick R (all types of examples)](http://www.statmethods.net/index.html)
+* [Roger Peng's Computing for Data Analysis Videos](http://bit.ly/UC5UDc)
+* [An Introduction to R](http://cran.r-project.org/doc/manuals/r-release/R-intro.html)
+* [*Advanced R Development* by Hadley Wickham](http://adv-r.had.co.nz/)
+* [DataCamp](https://www.datacamp.com/home)
+* [Free Code School intro R Course](https://www.codeschool.com/courses/try-r)
+* [swirl](swirlstat.com) "swirl teaches you R programming and data science interactively, at your own pace, and right in the R console"
+* [_R Packages_ by Hadley Wickham](http://r-pkgs.had.co.nz/)
+* [Learning Statistics/R on youtube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
+* [YaRrr! The Pirate's Guide to R](http://nathanieldphillips.com/thepiratesguidetor/)
+
+### RStudio
+* [RStudio (IDE)](http://rstudio.org/)
+* [RStudio (IDE) preview relase](https://www.rstudio.com/ide/download/preview)
+* [RStudio Documentation](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
+* [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+
+
+### Graphics
+
+* [`ggplot2` documentation](http://docs.ggplot2.org/current/)
+* [`ggplot2` Main Page](http://ggplot2.org/)
+* [`ggplot2` Book](http://ggplot2.org/book/)
+* [Cookbook for R](http://www.cookbook-r.com/Graphs/)
+* [Lattice: Multivariate Data Visualization with R - Figures and code](http://lmdvr.r-forge.r-project.org/figures/figures.html)
+* [Graph Catalog `ggplot2`](http://shinyapps.stat.ubc.ca/r-graph-catalog/)
+* [The Grammar and Graphics of Data Science (Video)](https://www.rstudio.com/resources/webinars/the-grammar-and-graphics-of-data-science/) (58:50)
+* [`plotly` for R](https://cpsievert.github.io/plotly_book/)
+
+
+### Shiny Apps
+
+* [Shiny](http://shiny.rstudio.com/)
+* [shinyapps.io server](https://shinyapps.io)
+* [Shiny Apps Documentation](http://docs.rstudio.com/shinyapps.io/)
+* [Shiny Cheatsheet](https://www.rstudio.com/resources/cheatsheets/)
+* [Normal Distribution Calculator (not finished)](https://alanarnholt.shinyapps.io/norm_area2/)
+
+### Data Science
+* [R for Data Science](http://r4ds.had.co.nz/tidy-data.html)
+* [A MODERN DIVE into Data with R](https://ismayc.github.io/moderndiver-book/)
+
+### Using [`dplyr`](https://cran.r-project.org/web/packages/dplyr/index.html)
+
+* [`dplyr` video1-tutorial](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
+* [`dplyr` video2-tutorial](http://www.dataschool.io/dplyr-tutorial-part-2/)
+
+
+### Reproducible Analysis
+
+* [`knitr` Homepage](http://yihui.name/knitr/)
+* [`knitr` Package Development on GitHub](https://github.com/yihui/knitr)
+* [Bookdown: Authoring Books with R Markdown](https://bookdown.org/yihui/bookdown/)
+* [*Reproducible Research with* R/RStudio Development on GitHub](https://github.com/christophergandrud/Rep-Res-Book)
+* [CRAN views of Reproducible Analysis](http://cran.r-project.org/web/views/ReproducibleResearch.html)
+* [Reproducible Reporting (Video)](https://www.rstudio.com/resources/webinars/reproducible-reporting/) (58:03)
+* [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/)
+* [My Final College Paper](https://ismayc.github.io/thesisdown_book/index.html)
+
+### Markdown
+* [R Markdown V2](http://rmarkdown.rstudio.com)
+* [Using R Markdown](https://support.rstudio.com/hc/en-us/sections/200149716-R-Markdown)
+* [Getting started with R Markdown (Video)](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/) (1:02:44)
+* [Markdown](http://daringfireball.net/projects/markdown/)
+  
+### LaTeX  
+
+* [Download LaTeX for Macs (TeXLive)](http://tug.org/mactex/)
+* [Download LaTeX for Windows (MikTeX)](http://miktex.org/)
+* [More Math into LaTeX](http://www.ctan.org/pkg/math-into-latex-4)
+* [Getting started with LaTeX](http://www.tug.org/begin.html)
+* [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX) 
+* [Clever help finding LaTeX symbols](http://detexify.kirelabs.org/classify.html)
+
+### Creating Slides with R
+* [R Markdown - ioslides, reveal.js, Slidy, and Beamer](http://rmarkdown.rstudio.com/ioslides_presentation_format.html#overview)
+* [R Presentations](https://support.rstudio.com/hc/en-us/sections/200130218-R-Presentations)
+
+
+### Git
+* [Happy Git and GitHub for the useR](http://happygitwithr.com/)
+* [Download Git](http://git-scm.com)
+* [GitHub Help Page](https://help.github.com/)
+* [Git Tutorials (bitbucket)](https://www.atlassian.com/git/tutorial)
+* [Create a Project](http://gitimmersion.com/lab_03.html)
+* [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
+* [Free Code School Intro to Git](https://www.codeschool.com/courses/try-git)
+* [Pro Git Book](http://git-scm.com/book)
+* [Try Git on GitHub](http://try.github.io/levels/1/challenges/1)
+* [Phillip Guo's Basic Git and Github tutorials (Three tutorials about 10 minutes each)](http://www.pgbovine.net/git-tutorial.htm)
+* [Clone a GitHub Repo with RStudio (Video)](https://www.youtube.com/watch?v=YxZ8J2rqhEM) (5:05)
+* [Clone a GitHub Repo with RStudio (Slides)](https://github.com/alanarnholt/Homework-Examples/blob/master/Slides/ForkCloneRStudio.pdf)
+* [Collaboration and time travel: version control with git, github and RStudio (Video)](https://www.rstudio.com/resources/webinars/collaboration-and-time-travel-version-control-with-git-github-and-rstudio/) (48:56)
+
+### Using Unix Like Commands
+* [Play Terminus to learn basics of the shell](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+* [Phillip Guo's Unix-like command line tutorials (Four tutorials about 10 minutes each)](http://www.pgbovine.net/command-line-tutorial.htm)
+* [Michael Stonebank's Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+
+
+### Other Interesting Stuff
+* [R-bloggers](http://r-bloggers.com)
+* [John Chambers recounts the history of S and R](http://blog.revolutionanalytics.com/2014/01/john-chambers-recounts-the-history-of-s-and-r.html)
+
+* * *

@@ -1,0 +1,17 @@
+---
+title: "Scholarship"
+output: html_document
+---
+
+## Books 
+
+
+[_Probability and Statistics with R, Second Edition_](http://alanarnholt.github.io/PASWR2E-Book/)
+
+[_Probability and Statistics with R_](http://www1.appstate.edu/~arnholta/PASWR/index.htm)
+
+## Grant Work
+
+* [USFS](https://github.com/alanarnholt/USFS)
+
+* * *

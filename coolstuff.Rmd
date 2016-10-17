@@ -1,0 +1,14 @@
+---
+title: "Cool Stuff: Non-Academic Links"
+output: html_document
+---
+
+- [Masters Swimming](http://www.usms.org/)
+- [US Swimming](http://www.usaswimming.org/DesktopDefault.aspx)
+- [North Carolina Masters](http://www.ncmasters.org/)
+- [ASU Recreation Center](http://urec.appstate.edu/student-recreation-center)
+- [County Pool Schedule](http://www.wataugacounty.org/App_Pages/Dept/ParksRec/Aquatics/poolschedule.aspx)
+- [Ray's Weather Center](http://booneweather.com/)
+
+
+* * *

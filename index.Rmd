@@ -1,0 +1,15 @@
+---
+title: "Welcome!"
+---
+
+<figure>
+<img src="./images/AlanBW.jpg" alt="Alan" align="left" hspace="20" style="width:100px;height:100px;">
+</figure>
+ 
+Computational statistics and reproducible research are critical for teaching and research at Appalachian State University.  If you are taking a class from me or are interested in these topics and would like to discuss them further, please make an appointment to meet with me by clicking on the **book now** icon in the footer.  
+
+This website was last rendered on `r format(Sys.time(), "%A, %B %d, %Y - %X.")`
+
+
+
+* * *
