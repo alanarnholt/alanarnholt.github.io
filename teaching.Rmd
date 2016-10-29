@@ -12,7 +12,7 @@ output: html_document
 * [STT 5811](http://stat-ata-asu.github.io/STT5811ClassRepo/)
 * [STT 5812](http://stat-ata-asu.github.io/STT5812CourseRepo/)
 * [STT 3851](http://stat-ata-asu.github.io/STT3851ClassRepo/)
-* [STT 3850 - notes from Spring 2013](http://alanarnholt.github.io/STT3850/)
+* [STT 3850](http://alanarnholt.github.io/STT3850/)
 * [MAT 4010](http://stat-ata-asu.github.io/MAT4010CourseRepo/)
 * [STT 2810](http://stat-ata-asu.github.io/STT2810ClassRepo/)
 * [AsULearn](http://asulearn.appstate.edu/)
