@@ -16,12 +16,14 @@ navbar:
       href: resources.html
     - text: "Cool Stuff"
       href: coolstuff.html
+    
+  right:
     - text: ""
       icon: glyphicon-info-sign
       href: about.html
-  right:
     - icon: fa-github fa-lg
-      href: https://github.com/alanarnholt/alanarnholt.github.io/   
+      href: https://github.com/alanarnholt/alanarnholt.github.io/  
+    
 
 output:
   html_document:
