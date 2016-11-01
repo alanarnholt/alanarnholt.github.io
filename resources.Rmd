@@ -50,6 +50,7 @@ output: html_document
 ### Data Science
 * [R for Data Science](http://r4ds.had.co.nz/tidy-data.html)
 * [A MODERN DIVE into Data with R](https://ismayc.github.io/moderndiver-book/)
+* [Tidy Text Mining with R](http://tidytextmining.com/)
 
 ### Using [`dplyr`](https://cran.r-project.org/web/packages/dplyr/index.html)
 
