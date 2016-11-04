@@ -29,6 +29,7 @@ output: html_document
 
 ### Graphics
 
+* [The `R` Graph Gallery](http://www.r-graph-gallery.com/)
 * [`ggplot2` documentation](http://docs.ggplot2.org/current/)
 * [`ggplot2` Main Page](http://ggplot2.org/)
 * [`ggplot2` Book](http://ggplot2.org/book/)
