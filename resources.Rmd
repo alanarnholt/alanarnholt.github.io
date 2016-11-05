@@ -1,10 +1,12 @@
 ---
 title: "Resources"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
 ---
 
-### RStudio Server
-* [ASU RStudio Server](https://mathr.math.appstate.edu/)
 
 ### R
 * [R homepage](http://www.r-project.org/)
@@ -21,6 +23,7 @@ output: html_document
 * [YaRrr! The Pirate's Guide to R](http://nathanieldphillips.com/thepiratesguidetor/)
 
 ### RStudio
+* [ASU RStudio Server](https://mathr.math.appstate.edu/)
 * [RStudio (IDE)](http://rstudio.org/)
 * [RStudio (IDE) preview relase](https://www.rstudio.com/ide/download/preview)
 * [RStudio Documentation](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
