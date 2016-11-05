@@ -73,7 +73,7 @@ output:
 * [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/)
 * [My Final College Paper](https://ismayc.github.io/thesisdown_book/index.html)
 
-### Markdown
+### R Markdown
 * [R Markdown V2](http://rmarkdown.rstudio.com)
 * [Using R Markdown](https://support.rstudio.com/hc/en-us/sections/200149716-R-Markdown)
 * [Getting started with R Markdown (Video)](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/) (1:02:44)
