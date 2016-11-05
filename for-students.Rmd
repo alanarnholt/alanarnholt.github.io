@@ -1,6 +1,10 @@
 ---
 title: "For Students"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
 ---
 ## Office Hours <i class="fa fa-clock-o"></i>
 
@@ -14,7 +18,7 @@ My office is in 340 Walker Hall. Office hours for the fall are MWF 10:00 a.m. to
 </figure>
 </center>
 
-## Appalchian's Academic Calendar and Exam Schedule
+## Important Dates and Times
 
 - [Academic calendar](https://registrar.appstate.edu/calendars-schedules/academic-calendar) <i class="fa fa-calendar"></i>
 - [Exam schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
@@ -30,5 +34,13 @@ Please visit [The University Writing Center](http://writingcenter.appstate.edu/)
 
 
 "Appalachian State University is committed to making reasonable accommodations for individuals with documented qualifying disabilities in accordance with the Americans with Disabilities Act of 1990, and Section 504 of the Rehabilitation Act of 1973. If you have a disability and may need reasonable accommodations in order to have equal access to the University's courses, programs and activities, please contact the Office of Disability Services (828.262.3056 or <http://ods.appstate.edu>).Once registration is complete, individuals will meet with ODS staff to discuss eligibility and appropriate accommodations."
+
+## Courses I Teach
+
+* Click the [Teaching Tab](teaching.html)
+
+## Computing Resources
+
+* Click the [Resources Tab](resources.html)
 
 * * *
