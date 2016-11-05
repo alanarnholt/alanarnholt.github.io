@@ -4,16 +4,16 @@ output_dir: "."
 navbar:
   title: "Alan T. Arnholt"
   left:
-    - text: "Software"
-      href: software.html
     - text: "For Students"
       href: for-students.html
-    - text: "Scholarship"
-      href: scholarship.html
-    - text: "Teaching"
-      href: teaching.html
     - text: "Resources"
       href: resources.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Software"
+      href: software.html
+    - text: "Scholarship"
+      href: scholarship.html
     - text: "Cool Stuff"
       href: coolstuff.html
     
