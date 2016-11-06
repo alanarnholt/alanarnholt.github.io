@@ -22,13 +22,12 @@
 <script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/textmate.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -156,7 +155,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -182,7 +180,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
@@ -336,15 +334,16 @@ div.tocify {
 <li><a href="http://www.r-project.org/">R homepage</a></li>
 <li><a href="http://cran.r-project.org/">Download R</a></li>
 <li><a href="http://www.statmethods.net/index.html">Quick R (all types of examples)</a></li>
-<li><a href="http://bit.ly/UC5UDc">Roger Peng’s Computing for Data Analysis Videos</a></li>
 <li><a href="http://cran.r-project.org/doc/manuals/r-release/R-intro.html">An Introduction to R</a></li>
 <li><a href="http://adv-r.had.co.nz/"><em>Advanced R Development</em> by Hadley Wickham</a></li>
+<li><a href="http://r-pkgs.had.co.nz/"><em>R Packages</em> by Hadley Wickham</a></li>
+<li><a href="http://www.brodrigues.co/functional_programming_and_unit_testing_for_data_munging/"><em>Functional Programming and Unit Testing for Data Munging with R</em></a></li>
+<li><a href="http://nathanieldphillips.com/thepiratesguidetor/">YaRrr! The Pirate’s Guide to R</a></li>
+<li><a href="http://bit.ly/UC5UDc">Roger Peng’s Computing for Data Analysis Videos</a></li>
+<li><a href="http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube">Learning Statistics/R on youtube</a></li>
 <li><a href="https://www.datacamp.com/home">DataCamp</a></li>
 <li><a href="https://www.codeschool.com/courses/try-r">Free Code School intro R Course</a></li>
 <li><a href="swirlstat.com">swirl</a> “swirl teaches you R programming and data science interactively, at your own pace, and right in the R console”</li>
-<li><a href="http://r-pkgs.had.co.nz/"><em>R Packages</em> by Hadley Wickham</a></li>
-<li><a href="http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube">Learning Statistics/R on youtube</a></li>
-<li><a href="http://nathanieldphillips.com/thepiratesguidetor/">YaRrr! The Pirate’s Guide to R</a></li>
 </ul>
 </div>
 <div id="rstudio" class="section level3">
@@ -502,8 +501,11 @@ div.tocify {
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
 
 
