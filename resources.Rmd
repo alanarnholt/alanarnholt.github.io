@@ -31,6 +31,7 @@ output:
 * [RStudio (IDE) preview relase](https://www.rstudio.com/ide/download/preview)
 * [RStudio Documentation](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+* [RStudio Easy Tricks for V1.0](https://www.rstudio.com/rviews/2016/11/11/easy-tricks-you-mightve-missed/)
 
 
 ### Graphics
