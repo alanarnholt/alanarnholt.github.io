@@ -14,7 +14,6 @@ output:
 * [Quick R (all types of examples)](http://www.statmethods.net/index.html)
 * [An Introduction to R](http://cran.r-project.org/doc/manuals/r-release/R-intro.html)
 * [*Advanced R Development* by Hadley Wickham](http://adv-r.had.co.nz/)
-* [_R Packages_ by Hadley Wickham](http://r-pkgs.had.co.nz/)
 * [_Functional Programming and Unit Testing for Data Munging with R_](http://www.brodrigues.co/functional_programming_and_unit_testing_for_data_munging/)
 * [YaRrr! The Pirate's Guide to R](http://nathanieldphillips.com/thepiratesguidetor/)
 * [Roger Peng's Computing for Data Analysis Videos](http://bit.ly/UC5UDc)
@@ -23,7 +22,11 @@ output:
 * [Free Code School intro R Course](https://www.codeschool.com/courses/try-r)
 * [swirl](swirlstat.com) "swirl teaches you R programming and data science interactively, at your own pace, and right in the R console"
 
+### R Package Building
 
+* [_R Packages_ by Hadley Wickham](http://r-pkgs.had.co.nz/)
+* [`packagedocs`](http://hafen.github.io/packagedocs/)
+* [`pkgdown`](https://hadley.github.io/pkgdown/)
 
 ### RStudio
 * [ASU RStudio Server](https://mathr.math.appstate.edu/)
@@ -60,6 +63,7 @@ output:
 * [R for Data Science](http://r4ds.had.co.nz/tidy-data.html)
 * [A MODERN DIVE into Data with R](https://ismayc.github.io/moderndiver-book/)
 * [Tidy Text Mining with R](http://tidytextmining.com/)
+* [OnePageR](http://togaware.com/onepager/)
 
 ### Using [`dplyr`](https://cran.r-project.org/web/packages/dplyr/index.html)
 
