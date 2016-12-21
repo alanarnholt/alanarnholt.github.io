@@ -14,6 +14,7 @@ output: html_document
 * [STT 3851](https://stat-ata-asu.github.io/STT3851ClassRepo/)
 * [STT 3850](https://alanarnholt.github.io/STT3850/)
 * [MAT 4010](https://stat-ata-asu.github.io/MAT4010CourseRepo/)
+* [STT 2810 Honors](https://stat-ata-asu.github.io/STT2810HonorsClassRepo/)
 * [STT 2810](https://stat-ata-asu.github.io/STT2810ClassRepo/)
 * [AsULearn](https://asulearn.appstate.edu/)
 * [Miscellaneous Statistics](https://alanarnholt.github.io/GeneralStatistics/)
