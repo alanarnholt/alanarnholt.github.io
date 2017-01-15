@@ -109,6 +109,7 @@ Hadley Wickham](http://r4ds.had.co.nz/tidy-data.html)
 
 ### Creating Slides with R
 * [R Markdown - ioslides, reveal.js, Slidy, and Beamer](http://rmarkdown.rstudio.com/ioslides_presentation_format.html#overview)
+* [`xaringan`](https://github.com/yihui/xaringan)
 * [R Presentations](https://support.rstudio.com/hc/en-us/sections/200130218-R-Presentations)
 
 
