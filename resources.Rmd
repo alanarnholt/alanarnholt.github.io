@@ -13,18 +13,24 @@ output:
 * [Download R](http://cran.r-project.org/)
 * [Quick R (all types of examples)](http://www.statmethods.net/index.html)
 * [An Introduction to R](http://cran.r-project.org/doc/manuals/r-release/R-intro.html)
+* [*R Programming for Data Science* by Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/)
+* [*Exploratory Data Analysis with R* by Roger D. Peng](https://bookdown.org/rdpeng/exdata/)
+* [*Efficient R programming* by Colin Gillespie
+and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 * [*Advanced R Development* by Hadley Wickham](http://adv-r.had.co.nz/)
+* [*Advanced R Solutions* by Malte Grosser and Henning Bumann](https://bookdown.org/Tazinho/Advanced-R-Solutions/)
 * [_Functional Programming and Unit Testing for Data Munging with R_](http://www.brodrigues.co/fput/)
-* [YaRrr! The Pirate's Guide to R](http://nathanieldphillips.com/thepiratesguidetor/)
+* [YaRrr! The Pirate's Guide to R by Nathaniel D. Phillips](http://nathanieldphillips.com/thepiratesguidetor/)
 * [Roger Peng's Computing for Data Analysis Videos](http://bit.ly/UC5UDc)
 * [Learning Statistics/R on youtube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
 * [DataCamp](https://www.datacamp.com/home)
 * [Free Code School intro R Course](https://www.codeschool.com/courses/try-r)
-* [swirl](swirlstat.com) "swirl teaches you R programming and data science interactively, at your own pace, and right in the R console"
+* [swirl](http://swirlstats.com) "swirl teaches you R programming and data science interactively, at your own pace, and right in the R console"
 
 ### R Package Building
 
 * [_R Packages_ by Hadley Wickham](http://r-pkgs.had.co.nz/)
+* [*Mastering Software Development in R* by Roger D. Peng, Sean Kross, and Brooke Anderson](https://bookdown.org/rdpeng/RProgDA/)
 * [`packagedocs`](http://hafen.github.io/packagedocs/)
 * [`pkgdown`](https://hadley.github.io/pkgdown/)
 
@@ -49,6 +55,8 @@ output:
 * [The Grammar and Graphics of Data Science (Video)](https://www.rstudio.com/resources/webinars/the-grammar-and-graphics-of-data-science/) (58:50)
 * [`plotly` for R](https://cpsievert.github.io/plotly_book/)
 * [Plotly tutorial: Plotly and R](https://www.datacamp.com/community/open-courses/plotly-tutorial-plotly-and-r)
+* [*Interactive Data Visualization (2nd Day)* by
+Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 
 
 ### Shiny Apps
@@ -60,9 +68,10 @@ output:
 * [Normal Distribution Calculator (not finished)](https://alanarnholt.shinyapps.io/norm_area2/)
 
 ### Data Science
-* [R for Data Science](http://r4ds.had.co.nz/tidy-data.html)
-* [A MODERN DIVE into Data with R](https://ismayc.github.io/moderndiver-book/)
-* [Tidy Text Mining with R](http://tidytextmining.com/)
+* [*R for Data Science* by Garrett Grolemund and
+Hadley Wickham](http://r4ds.had.co.nz/tidy-data.html)
+* [*A MODERN DIVE into Data with R* by Chester Ismay and Albert Y. Kim](https://ismayc.github.io/moderndiver-book/)
+* [*Tidy Text Mining with R* by Julia Silge and David Robinson](http://tidytextmining.com/)
 * [OnePageR](http://togaware.com/onepager/)
 
 ### Using [`dplyr`](https://cran.r-project.org/web/packages/dplyr/index.html)
@@ -76,12 +85,12 @@ output:
 
 * [`knitr` Homepage](http://yihui.name/knitr/)
 * [`knitr` Package Development on GitHub](https://github.com/yihui/knitr)
-* [Bookdown: Authoring Books with R Markdown](https://bookdown.org/yihui/bookdown/)
+* [*Bookdown: Authoring Books with R Markdown* by Yihui Xie](https://bookdown.org/yihui/bookdown/)
 * [*Reproducible Research with* R/RStudio Development on GitHub](https://github.com/christophergandrud/Rep-Res-Book)
 * [CRAN views of Reproducible Analysis](http://cran.r-project.org/web/views/ReproducibleResearch.html)
 * [Reproducible Reporting (Video)](https://www.rstudio.com/resources/webinars/reproducible-reporting/) (58:03)
-* [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/)
-* [My Final College Paper](https://ismayc.github.io/thesisdown_book/index.html)
+* [*Getting used to R, RStudio, and R Markdown* by Chester Ismay](https://ismayc.github.io/rbasics-book/)
+* [*My Final College Paper* by Chester Ismay](https://ismayc.github.io/thesisdown_book/index.html)
 
 ### R Markdown
 * [R Markdown V2](http://rmarkdown.rstudio.com)
@@ -104,7 +113,7 @@ output:
 
 
 ### Git
-* [Happy Git and GitHub for the useR](http://happygitwithr.com/)
+* [*Happy Git and GitHub for the useR* by Jenny Bryan and the STAT 545 TAs](http://happygitwithr.com/)
 * [Download Git](http://git-scm.com)
 * [GitHub Help Page](https://help.github.com/)
 * [Git Tutorials (bitbucket)](https://www.atlassian.com/git/tutorial)
