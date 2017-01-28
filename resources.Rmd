@@ -66,6 +66,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [Shiny Apps Documentation](http://docs.rstudio.com/shinyapps.io/)
 * [Shiny Cheatsheet](https://www.rstudio.com/resources/cheatsheets/)
 * [Normal Distribution Calculator (not finished)](https://alanarnholt.shinyapps.io/norm_area2/)
+* [Normal Distribution Calculator (running on Alan's Droplet)](http://162.243.83.100:3838/NormalApp/)
 
 ### Data Science
 * [*R for Data Science* by Garrett Grolemund and
