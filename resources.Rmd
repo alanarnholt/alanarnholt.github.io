@@ -68,6 +68,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [Normal Distribution Calculator (running on RStudio Shiny Apps server)](https://alanarnholt.shinyapps.io/norm_area2/)
 * [Normal Distribution Calculator (running on Alan's Droplet)](http://162.243.83.100:3838/NormalApp/)
 * [Normal Distribution Calculator (with more features running on Alan's Droplet)](http://162.243.83.100:3838/NormApp3/)
+* [Sampling Distributions (running on Alan's Droplet)](http://162.243.83.100:3838/SamplingDist/)
 
 ### Data Science
 * [*R for Data Science* by Garrett Grolemund and
