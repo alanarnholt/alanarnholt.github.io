@@ -8,7 +8,7 @@ output:
 ---
 
 
-### R
+### `r knitr::include_graphics("./images/r.png", dpi = 1500)` R
 * [R homepage](http://www.r-project.org/)
 * [Download R](http://cran.r-project.org/)
 * [Quick R (all types of examples)](http://www.statmethods.net/index.html)
@@ -27,14 +27,7 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 * [Free Code School intro R Course](https://www.codeschool.com/courses/try-r)
 * [swirl](http://swirlstats.com) "swirl teaches you R programming and data science interactively, at your own pace, and right in the R console"
 
-### R Package Building
-
-* [_R Packages_ by Hadley Wickham](http://r-pkgs.had.co.nz/)
-* [*Mastering Software Development in R* by Roger D. Peng, Sean Kross, and Brooke Anderson](https://bookdown.org/rdpeng/RProgDA/)
-* [`packagedocs`](http://hafen.github.io/packagedocs/)
-* [`pkgdown`](https://hadley.github.io/pkgdown/)
-
-### RStudio
+### `r knitr::include_graphics("./images/rstudio.jpg", dpi = 1200)` RStudio
 * [ASU RStudio Server](https://mathr.math.appstate.edu/)
 * [RStudio (IDE)](http://rstudio.org/)
 * [RStudio (IDE) preview relase](https://www.rstudio.com/ide/download/preview)
@@ -43,7 +36,7 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 * [RStudio Easy Tricks for V1.0](https://www.rstudio.com/rviews/2016/11/11/easy-tricks-you-mightve-missed/)
 
 
-### Graphics
+### `r knitr::include_graphics("./images/ggplot2.png", dpi = 300)` Graphics
 
 * [The `R` Graph Gallery](http://www.r-graph-gallery.com/)
 * [`ggplot2` documentation](http://docs.ggplot2.org/current/)
@@ -59,7 +52,8 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 
 
-### Shiny Apps
+### `r knitr::include_graphics("./images/shiny.png", dpi = 300)` Shiny Apps
+
 
 * [Shiny](http://shiny.rstudio.com/)
 * [shinyapps.io server](https://shinyapps.io)
@@ -70,21 +64,23 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [Normal Distribution Calculator (with more features running on Alan's Droplet)](http://162.243.83.100:3838/NormApp3/)
 * [Sampling Distributions (running on Alan's Droplet)](http://162.243.83.100:3838/SamplingDist/)
 
-### Data Science
-* [*R for Data Science* by Garrett Grolemund and
-Hadley Wickham](http://r4ds.had.co.nz/tidy-data.html)
-* [*A MODERN DIVE into Data with R* by Chester Ismay and Albert Y. Kim](https://ismayc.github.io/moderndiver-book/)
-* [*Tidy Text Mining with R* by Julia Silge and David Robinson](http://tidytextmining.com/)
-* [OnePageR](http://togaware.com/onepager/)
+### `r knitr::include_graphics("./images/devtools.png", dpi = 300)` R Package Building
 
-### Using [`dplyr`](https://cran.r-project.org/web/packages/dplyr/index.html)
+* [_R Packages_ by Hadley Wickham](http://r-pkgs.had.co.nz/)
+* [*Mastering Software Development in R* by Roger D. Peng, Sean Kross, and Brooke Anderson](https://bookdown.org/rdpeng/RProgDA/)
+* [`packagedocs`](http://hafen.github.io/packagedocs/)
+* [`pkgdown`](https://hadley.github.io/pkgdown/)
+
+
+
+### `r knitr::include_graphics("./images/dplyr.png", dpi = 300)` Using [`dplyr`](https://cran.r-project.org/web/packages/dplyr/index.html)
 
 * [Introduction to `dplyr` vignette](https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
 * [`dplyr` video1-tutorial](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
 * [`dplyr` video2-tutorial](http://www.dataschool.io/dplyr-tutorial-part-2/)
 
 
-### Reproducible Analysis
+### `r knitr::include_graphics("./images/knitr.png", dpi = 300)`Reproducible Analysis
 
 * [`knitr` Homepage](http://yihui.name/knitr/)
 * [`knitr` Package Development on GitHub](https://github.com/yihui/knitr)
@@ -95,28 +91,20 @@ Hadley Wickham](http://r4ds.had.co.nz/tidy-data.html)
 * [*Getting used to R, RStudio, and R Markdown* by Chester Ismay](https://ismayc.github.io/rbasics-book/)
 * [*My Final College Paper* by Chester Ismay](https://ismayc.github.io/thesisdown_book/index.html)
 
-### R Markdown
+### `r knitr::include_graphics("./images/rmarkdown.png", dpi = 300)` R Markdown
 * [R Markdown V2](http://rmarkdown.rstudio.com)
 * [Using R Markdown](https://support.rstudio.com/hc/en-us/sections/200149716-R-Markdown)
 * [Getting started with R Markdown (Video)](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/) (1:02:44)
 * [Markdown](http://daringfireball.net/projects/markdown/)
   
-### LaTeX  
 
-* [Download LaTeX for Macs (TeXLive)](http://tug.org/mactex/)
-* [Download LaTeX for Windows (MikTeX)](http://miktex.org/)
-* [More Math into LaTeX](http://www.ctan.org/pkg/math-into-latex-4)
-* [Getting started with LaTeX](http://www.tug.org/begin.html)
-* [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX) 
-* [Clever help finding LaTeX symbols](http://detexify.kirelabs.org/classify.html)
-
-### Creating Slides with R
+### `r knitr::include_graphics("./images/rmarkdown.png", dpi = 300)` Creating Slides with R
 * [R Markdown - ioslides, reveal.js, Slidy, and Beamer](http://rmarkdown.rstudio.com/ioslides_presentation_format.html#overview)
 * [`xaringan`](https://github.com/yihui/xaringan)
 * [R Presentations](https://support.rstudio.com/hc/en-us/sections/200130218-R-Presentations)
 
 
-### Git
+### `r knitr::include_graphics("./images/git.jpg", dpi = 450)` Git
 * [*Happy Git and GitHub for the useR* by Jenny Bryan and the STAT 545 TAs](http://happygitwithr.com/)
 * [Download Git](http://git-scm.com)
 * [GitHub Help Page](https://help.github.com/)
@@ -131,11 +119,27 @@ Hadley Wickham](http://r4ds.had.co.nz/tidy-data.html)
 * [Clone a GitHub Repo with RStudio (Slides)](https://github.com/alanarnholt/Homework-Examples/blob/master/Slides/ForkCloneRStudio.pdf)
 * [Collaboration and time travel: version control with git, github and RStudio (Video)](https://www.rstudio.com/resources/webinars/collaboration-and-time-travel-version-control-with-git-github-and-rstudio/) (48:56)
 
-### Using Unix Like Commands
+### `r knitr::include_graphics("./images/linux2.png", dpi = 2500)` Using Unix Like Commands
 * [Play Terminus to learn basics of the shell](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 * [Phillip Guo's Unix-like command line tutorials (Four tutorials about 10 minutes each)](http://www.pgbovine.net/command-line-tutorial.htm)
 * [Michael Stonebank's Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
+### Data Science
+* [*R for Data Science* by Garrett Grolemund and
+Hadley Wickham](http://r4ds.had.co.nz/tidy-data.html)
+* [*A MODERN DIVE into Data with R* by Chester Ismay and Albert Y. Kim](https://ismayc.github.io/moderndiver-book/)
+* [*Tidy Text Mining with R* by Julia Silge and David Robinson](http://tidytextmining.com/)
+* [OnePageR](http://togaware.com/onepager/)
+
+
+### $\LaTeX$  
+
+* [Download LaTeX for Macs (TeXLive)](http://tug.org/mactex/)
+* [Download LaTeX for Windows (MikTeX)](http://miktex.org/)
+* [More Math into LaTeX](http://www.ctan.org/pkg/math-into-latex-4)
+* [Getting started with LaTeX](http://www.tug.org/begin.html)
+* [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX) 
+* [Clever help finding LaTeX symbols](http://detexify.kirelabs.org/classify.html)
 
 ### Other Interesting Stuff
 * [R-bloggers](http://r-bloggers.com)
