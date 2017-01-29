@@ -59,10 +59,12 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [shinyapps.io server](https://shinyapps.io)
 * [Shiny Apps Documentation](http://docs.rstudio.com/shinyapps.io/)
 * [Shiny Cheatsheet](https://www.rstudio.com/resources/cheatsheets/)
+* [Building Shiny Apps](http://stat545.com/shiny01_activity.html)
 * [Normal Distribution Calculator (running on RStudio Shiny Apps server)](https://alanarnholt.shinyapps.io/norm_area2/)
 * [Normal Distribution Calculator (running on Alan's Droplet)](http://162.243.83.100:3838/NormalApp/)
 * [Normal Distribution Calculator (with more features running on Alan's Droplet)](http://162.243.83.100:3838/NormApp3/)
 * [Sampling Distributions (running on Alan's Droplet)](http://162.243.83.100:3838/SamplingDist/)
+* [How to get your very own RStudio Server and Shiny Server with DigitalOcean](http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
 
 ### `r knitr::include_graphics("./images/devtools.png", dpi = 300)` R Package Building
 
