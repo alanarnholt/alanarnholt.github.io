@@ -143,6 +143,10 @@ Hadley Wickham](http://r4ds.had.co.nz/tidy-data.html)
 * [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX) 
 * [Clever help finding LaTeX symbols](http://detexify.kirelabs.org/classify.html)
 
+### Zotero
+
+* [Using Zotero](https://stat-ata-asu.github.io/STT2810HonorsClassRepo/RMarkdown/ZoteroInClass.html)
+
 ### Other Interesting Stuff
 * [R-bloggers](http://r-bloggers.com)
 * [John Chambers recounts the history of S and R](http://blog.revolutionanalytics.com/2014/01/john-chambers-recounts-the-history-of-s-and-r.html)
