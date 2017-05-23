@@ -36,6 +36,11 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 * [RStudio Easy Tricks for V1.0](https://www.rstudio.com/rviews/2016/11/11/easy-tricks-you-mightve-missed/)
 
 
+### `r knitr::include_graphics("./images/DataCamp.png", dpi = 120)` Data Camp
+* [Data Science Courses Using R](https://www.datacamp.com/courses/tech:r)
+* [Data Science Courses Using Python](https://www.datacamp.com/courses/tech:python)
+
+
 ### `r knitr::include_graphics("./images/ggplot2.png", dpi = 300)` Graphics
 
 * [The `R` Graph Gallery](http://www.r-graph-gallery.com/)
