@@ -8,7 +8,7 @@ output:
 ---
 ## Office Hours <i class="fa fa-clock-o"></i>
 
-My office is in 340 Walker Hall. Office hours for the fall are MWF 10:00 a.m. to 11:30 a.m. Students may click on [book now](https://arnholtat.youcanbook.me/) to schedule an appointment.
+My office is in 237 Walker Hall. Office hours for the fall are MWF 10:00 a.m. to 11:30 a.m. Students may click on [book now](https://arnholtat.youcanbook.me/) to schedule an appointment.
 
 <center>
 
