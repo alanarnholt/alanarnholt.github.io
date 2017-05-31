@@ -12,7 +12,7 @@ My office is in 237 Walker Hall. Office hours for the fall are MWF 10:00 a.m. to
 
 Time   | Monday |Tuesday | Wednesday | Thursday | Friday
  -----------|--------|--------|-----------|----------|--------
-   10-11:30 | OFFICE   | STT 5530 | OFFICE    |  STT 5530  | OFFICE 
+   10-11:30 | OFFICE   | MAT 5500 | OFFICE    |  MAT 5500  | OFFICE 
      1-1:50 | STT 3850 | STT 3850 | STT 3850 |  STT 3850 | RESEARCH
      2-2:50 | STT 3850 | STT 3850 | STT 3850 |  STT 3850 | RESEARCH
   3:30-4:45 | RESEARCH | STT 3530 | RESEARCH |   STT3530       | 
