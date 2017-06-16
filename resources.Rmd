@@ -133,7 +133,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 
 ### Data Science
 * [*R for Data Science* by Garrett Grolemund and
-Hadley Wickham](http://r4ds.had.co.nz/tidy-data.html)
+Hadley Wickham](http://r4ds.had.co.nz/)
 * [*A MODERN DIVE into Data with R* by Chester Ismay and Albert Y. Kim](https://ismayc.github.io/moderndiver-book/)
 * [*Tidy Text Mining with R* by Julia Silge and David Robinson](http://tidytextmining.com/)
 * [OnePageR](http://togaware.com/onepager/)
