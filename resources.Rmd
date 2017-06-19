@@ -82,7 +82,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 
 ### `r knitr::include_graphics("./images/dplyr.png", dpi = 300)` Using [`dplyr`](https://cran.r-project.org/web/packages/dplyr/index.html)
 
-* [Introduction to `dplyr` vignette](https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
+* [Introduction to `dplyr` vignette](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
 * [`dplyr` video1-tutorial](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
 * [`dplyr` video2-tutorial](http://www.dataschool.io/dplyr-tutorial-part-2/)
 
