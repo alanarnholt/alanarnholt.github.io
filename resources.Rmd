@@ -66,9 +66,9 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [Shiny Cheatsheet](https://www.rstudio.com/resources/cheatsheets/)
 * [Building Shiny Apps](http://stat545.com/shiny01_activity.html)
 * [Normal Distribution Calculator (running on RStudio Shiny Apps server)](https://alanarnholt.shinyapps.io/norm_area2/)
-* [Normal Distribution Calculator (running on Alan's Droplet)](http://alanarnholt.com:3838/NormalApp/)
-* [Normal Distribution Calculator (with more features running on Alan's Droplet)](http://alanarnholt.com:3838/NormApp3/)
-* [Sampling Distributions (running on Alan's Droplet)](http://alanarnholt.com:3838/SamplingDist/)
+* [Normal Distribution Calculator (running on Alan's Droplet)](http://alanarnholt.com/shiny/NormalApp/)
+* [Normal Distribution Calculator (with more features running on Alan's Droplet)](http://alanarnholt.com/shiny/NormApp3/)
+* [Sampling Distributions (running on Alan's Droplet)](http://alanarnholt.com/shiny/SamplingDist/)
 * [How to get your very own RStudio Server and Shiny Server with DigitalOcean](http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
 
 ### `r knitr::include_graphics("./images/devtools.png", dpi = 300)` R Package Building
@@ -82,7 +82,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 
 ### `r knitr::include_graphics("./images/dplyr.png", dpi = 300)` Using [`dplyr`](https://cran.r-project.org/web/packages/dplyr/index.html)
 
-* [Introduction to `dplyr` vignette](https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
+* [Introduction to `dplyr` vignette](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
 * [`dplyr` video1-tutorial](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
 * [`dplyr` video2-tutorial](http://www.dataschool.io/dplyr-tutorial-part-2/)
 
