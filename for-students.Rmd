@@ -30,7 +30,7 @@ library(dplyr)
 
 Use the leaflet map below to find my office. 
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, fig.align = "center"}
 leaflet() %>%
   setView(lng=-81.684954, lat=36.216777, zoom = 16) %>% 
   addTiles() %>%
