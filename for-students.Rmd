@@ -28,9 +28,9 @@ library(leaflet)
 library(dplyr)
 ```
 
-Use the leaflet map below to find my office. 
+Use the leaflet map below to find Walker Hall. 
 
-```{r, echo = FALSE, fig.align = "center"}
+```{r, echo = FALSE}
 leaflet() %>%
   setView(lng=-81.684954, lat=36.216777, zoom = 16) %>% 
   addTiles() %>%
