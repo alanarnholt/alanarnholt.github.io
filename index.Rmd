@@ -11,5 +11,4 @@ Computational statistics and reproducible research are critical for teaching and
 This website was last rendered on `r format(Sys.time(), "%A, %B %d, %Y - %X.")`
 
 
-
 * * *
