@@ -26,6 +26,7 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 * [DataCamp](https://www.datacamp.com/home)
 * [Free Code School intro R Course](https://www.codeschool.com/courses/try-r)
 * [swirl](http://swirlstats.com) "swirl teaches you R programming and data science interactively, at your own pace, and right in the R console"
+* [Why Use Docker with R?](https://www.opencpu.org/posts/opencpu-with-docker/)
 
 ### `r knitr::include_graphics("./images/rstudio.jpg", dpi = 1200)` RStudio
 * [ASU RStudio Server](https://mathr.math.appstate.edu/)
@@ -55,6 +56,7 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 * [Plotly tutorial: Plotly and R](https://www.datacamp.com/community/open-courses/plotly-tutorial-plotly-and-r)
 * [*Interactive Data Visualization (2nd Day)* by
 Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
+* [DiagrammeR](http://rich-iannone.github.io/DiagrammeR/)
 
 
 ### `r knitr::include_graphics("./images/shiny.png", dpi = 300)` Shiny Apps
