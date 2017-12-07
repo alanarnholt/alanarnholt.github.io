@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -231,7 +233,7 @@ $(document).ready(function () {
 <img src="images/Alan.png" alt="Alan" align="left" hspace="20" style="width:80px;height:100px;">
 </figure>
 <p>Computational statistics and reproducible research are critical for teaching and research at Appalachian State University. If you are taking a class from me or are interested in these topics and would like to discuss them further, please make an appointment to meet with me by clicking on the <strong>book now</strong> icon in the footer.</p>
-<p>This website was last rendered on Thursday, October 19, 2017 - 07:00:49 AM.</p>
+<p>This website was last rendered on Thursday, December 07, 2017 - 07:11:16 AM.</p>
 <hr />
 
 <div id="footer">
