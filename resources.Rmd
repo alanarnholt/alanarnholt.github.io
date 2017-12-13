@@ -100,6 +100,8 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [*Getting used to R, RStudio, and R Markdown* by Chester Ismay](https://ismayc.github.io/rbasics-book/)
 * [*My Final College Paper* by Chester Ismay](https://ismayc.github.io/thesisdown_book/index.html)
 * [*A Guide to Reproducible Code in Ecology and Evolution*](http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+* [*Good enough practices in scientific computing*](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+
 
 ### `r knitr::include_graphics("./images/rmarkdown.png", dpi = 300)` R Markdown
 * [R Markdown V2](http://rmarkdown.rstudio.com)
