@@ -95,6 +95,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 
 * [`knitr` Homepage](http://yihui.name/knitr/)
 * [`knitr` Package Development on GitHub](https://github.com/yihui/knitr)
+* [*R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire, and Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 * [*Bookdown: Authoring Books with R Markdown* by Yihui Xie](https://bookdown.org/yihui/bookdown/)
 * [*Reproducible Research with* R/RStudio Development on GitHub](https://github.com/christophergandrud/Rep-Res-Book)
 * [CRAN views of Reproducible Analysis](http://cran.r-project.org/web/views/ReproducibleResearch.html)
