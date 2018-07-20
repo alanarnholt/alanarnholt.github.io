@@ -144,6 +144,7 @@ Hadley Wickham](http://r4ds.had.co.nz/)
 * [*A MODERN DIVE into Data with R* by Chester Ismay and Albert Y. Kim](https://ismayc.github.io/moderndiver-book/)
 * [*Tidy Text Mining with R* by Julia Silge and David Robinson](http://tidytextmining.com/)
 * [OnePageR](http://togaware.com/onepager/)
+* [*Interpretable Machine Learning* by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
 
 
 ### $\LaTeX$  
