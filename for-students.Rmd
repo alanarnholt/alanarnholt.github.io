@@ -6,17 +6,17 @@ output:
     toc_float:
       collapsed: false
 ---
-## Office Hours <i class="fa fa-clock-o"></i>
+## Office Hours <i class="fa fa-clock-o"></i> Fall 2018
 
-My office is in 237 Walker Hall. Office hours for Fall 2018 are M-R 11:00 a.m. to 12:00 p.m.; MTR 3-3:30 p.m. Students may click on [book now](https://arnholtat.youcanbook.me/) to schedule an appointment.
+My office is in 237 Walker Hall. Students may click on [book now](https://arnholtat.youcanbook.me/) to schedule an appointment. Office hours are M-R 11:00 a.m. to 12:00 p.m; MTR 3-3:30 p.m.; and by appointment. 
 
 ```{r, echo = FALSE}
 df <- data.frame(Time = c("6:00-9:00", "9:00-10:00", "10:00-11:00", "11:00-12:00", "12:00-1:00", "1:00-2:00", "2:00-3:00", "3:00-3:30", "4:00-5:00"), 
-                 Monday = c("Swim", "Office/Prep", "Office/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
-                 Tuesday = c("Swim", "Office/Prep", "Office/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
-                 Wednesday = c("Swim", "Office/Prep", "Office/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Dept. Meeting", "STT 2820"), 
-                 Thursday = c("Swim", "Office/Prep", "Office/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
-                 Friday = c("Swim", "Research", "Research", "Research", "Research","Research", "Research","Research", "Research"))
+                 Monday = c("PT", "Research/Prep", "Research/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
+                 Tuesday = c("PT", "Research/Prep", "Research/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
+                 Wednesday = c("PT", "Research/Prep", "Research/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Dept. Meeting", "STT 2820"), 
+                 Thursday = c("PT", "Research/Prep", "Research/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
+                 Friday = c("PT", "Research", "Research", "Research", "Lunch","Research", "Research","Research", "Research"))
 knitr::kable(df, align = c("c","c","c","c","c","c","c","c","c"))
 ```
 
@@ -45,8 +45,11 @@ leaflet() %>%
 ## Important Dates and Times
 
 - [Academic calendar](https://registrar.appstate.edu/calendars-schedules/academic-calendar) <i class="fa fa-calendar"></i>
-- [Exam schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
+- [University Exam schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
 - [Registration Access Times](https://registrar.appstate.edu/students/registration-classes/early-registration-access)
+- Final Exam STT 3850-104 Walker 307B; DEC 11, 2018 - 2PM-4:30PM
+- Final Exam STT 3850-103 Walker 307B; DEC 12, 2018 - 11AM-1:30PM
+- Final Exam STT 2820-106 Walker 303; DEC 12, 2018 - 2PM-4:30PM
 
 ## Writing Resources
 
