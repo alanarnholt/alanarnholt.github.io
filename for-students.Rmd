@@ -8,15 +8,15 @@ output:
 ---
 ## Office Hours <i class="fa fa-clock-o"></i> Fall 2018
 
-My office is in 237 Walker Hall. Students may click on [book now](https://arnholtat.youcanbook.me/) to schedule an appointment. Office hours are M-R 11:00 a.m. to 12:00 p.m; MTR 3-3:30 p.m.; and by appointment. 
+My office is in 237 Walker Hall. Students may click on [book now](https://arnholtat.youcanbook.me/) to schedule an appointment. Office hours are M-R 12:00 P.M a.m. to 1:00 p.m; MTR 3-3:30 p.m.; and by appointment. 
 
 ```{r, echo = FALSE}
 df <- data.frame(Time = c("6:00-9:00", "9:00-10:00", "10:00-11:00", "11:00-12:00", "12:00-1:00", "1:00-2:00", "2:00-3:00", "3:00-3:30", "4:00-5:00"), 
-                 Monday = c("PT", "Research/Prep", "Research/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
-                 Tuesday = c("PT", "Research/Prep", "Research/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
-                 Wednesday = c("PT", "Research/Prep", "Research/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Dept. Meeting", "STT 2820"), 
-                 Thursday = c("PT", "Research/Prep", "Research/Prep", "Office hour", "Lunch", "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
-                 Friday = c("PT", "Research", "Research", "Research", "Lunch","Research", "Research","Research", "Research"))
+                 Monday = c("PT", "Research/Prep", "Research/Prep", "Lunch", "Office hour",  "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
+                 Tuesday = c("PT", "Research/Prep", "Research/Prep", "Lunch", "Office hour",  "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
+                 Wednesday = c("PT", "Research/Prep", "Research/Prep", "Lunch", "Office hour",  "STT 3850", "STT 3850", "Dept. Meeting", "STT 2820"), 
+                 Thursday = c("PT", "Research/Prep", "Research/Prep", "Lunch", "Office hour",  "STT 3850", "STT 3850", "Office Hour", "STT 2820"), 
+                 Friday = c("PT", "Research", "Research", "Lunch", "Research", "Research",  "Research","Research", "Research"))
 knitr::kable(df, align = c("c","c","c","c","c","c","c","c","c"))
 ```
 
