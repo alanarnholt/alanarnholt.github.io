@@ -15,7 +15,7 @@ output: html_document
 * [STT 3851](https://stat-ata-asu.github.io/STT3851ClassRepo/)
 * [STT 3850](https://alanarnholt.github.io/STT3850/)
 * [STT 3530 - Data Science I](https://stat-ata-asu.github.io/DataScience_1/)
-* [STT 3531 - Data Science II](https://stat-ata-asu.github.io/DataScience_2/)
+* [STT 3531 - Data Science II](https://StatisticalModeling.github.io/DataScience_2/)
 * [STT 2810 Honors](https://stat-ata-asu.github.io/STT2810HonorsClassRepo/)
 * [STT 2810](https://stat-ata-asu.github.io/STT2810ClassRepo/)
 * [AsULearn](https://asulearn.appstate.edu/)
