@@ -12,11 +12,11 @@ My office is in 237 Walker Hall. Students may click on [book now](https://arnhol
 
 ```{r, echo = FALSE}
 df <- data.frame(Time = c("6:00-9:00", "9:00-10:00", "10:00-11:00", "11:00-12:00", "12:00-1:00", "1:00-2:00", "2:00-3:00", "3:00-4:00", "4:00-5:00"), 
-                 Monday = c("PT", "Prep", "Prep", "STT 2810", "STT 3830", "Lunch",  "STT 3851", "Ofiice Hour", "Office Hour"), 
+                 Monday = c("PT", "Prep", "Prep", "STT 2810", "STT 3830", "Lunch",  "STT 3851", "Office Hour", "Office Hour"), 
                  Tuesday = c("PT", "Research/Prep", "Research/Prep", "Research/Prep", "Research/Prep", "Lunch",  "Research/Prep", "Research/Prep", "Research/Prep"), 
-                 Wednesday = c("PT", "Prep", "Prep", "STT 2810", "STT 3830", "Lunch",  "STT 3851", "Ofiice Hour", "Office Hour"), 
+                 Wednesday = c("PT", "Prep", "Prep", "STT 2810", "STT 3830", "Lunch",  "STT 3851", "Office Hour", "Office Hour"), 
                  Thursday = c("PT", "Research/Prep", "Research/Prep", "Research/Prep", "Research/Prep", "Lunch",  "Research/Prep", "Research/Prep", "Research/Prep"), 
-                 Friday = c("PT", "Prep", "Prep", "STT 2810", "STT 3830", "Lunch",  "STT 3851", "Ofiice Hour", "Office Hour")) 
+                 Friday = c("PT", "Prep", "Prep", "STT 2810", "STT 3830", "Lunch",  "STT 3851", "Office Hour", "Office Hour")) 
 knitr::kable(df, align = c("c","c","c","c","c","c","c","c","c"))
 ```
 
