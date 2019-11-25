@@ -47,7 +47,7 @@ leaflet() %>%
 - [Academic calendar](https://registrar.appstate.edu/calendars-schedules) <i class="fa fa-calendar"></i>
 - [University Exam schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
 - [Registration Access Times](https://registrar.appstate.edu/students/registration-classes/early-registration-access)
-- Final Exam STT 2810-105 Walker 303; Dec 6, 2019---11:00 AM - 1:30 PM
+- Final Exam STT 2810-105 Walker 307; Dec 6, 2019---11:00 AM - 1:30 PM
 - Final Exam STT 3830-101 Walker 303; Dec 9, 2019---11:00 AM - 1:30 PM
 - Final Exam STT 3851-101 Walker 303; Dec 6, 2019---2:00 PM - 4:30 PM
 
