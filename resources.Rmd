@@ -146,6 +146,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [*R for Data Science* by Garrett Grolemund and
 Hadley Wickham](http://r4ds.had.co.nz/)
 * [*MODERN DIVE: An Introduction to Statistical and Data Sciences via R* by Chester Ismay and Albert Y. Kim](https://moderndive.com/)
+* [The **caret** Package](http://topepo.github.io/caret/index.html)
 * [*Feature Engineering and Selection: A Practical Approach for Predictive Models* by Max Kuhn and Kjell Johnson](http://www.feat.engineering/)
 * [*Tidy Text Mining with R* by Julia Silge and David Robinson](http://tidytextmining.com/)
 * [OnePageR](http://togaware.com/onepager/)
