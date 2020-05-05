@@ -44,6 +44,7 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 
 ### `r knitr::include_graphics("./images/ggplot2.png", dpi = 300)` Graphics
 
+* [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
 * [The `R` Graph Gallery](http://www.r-graph-gallery.com/)
 * [`ggplot2` documentation](http://docs.ggplot2.org/current/)
 * [`ggplot2` Main Page](http://ggplot2.org/)
@@ -64,6 +65,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 
 * [Shiny](http://shiny.rstudio.com/)
 * [shinyapps.io server](https://shinyapps.io)
+* [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 * [Shiny Apps Documentation](http://docs.rstudio.com/shinyapps.io/)
 * [Shiny Cheatsheet](https://www.rstudio.com/resources/cheatsheets/)
 * [Building Shiny Apps](http://stat545.com/shiny01_activity.html)
@@ -107,6 +109,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 
 ### `r knitr::include_graphics("./images/rmarkdown.png", dpi = 300)` R Markdown
 * [*R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire, and Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
+* [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 * [R Markdown V2](http://rmarkdown.rstudio.com)
 * [Using R Markdown](https://support.rstudio.com/hc/en-us/sections/200149716-R-Markdown)
 * [Getting started with R Markdown (Video)](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/) (1:02:44)
@@ -143,6 +146,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [*R for Data Science* by Garrett Grolemund and
 Hadley Wickham](http://r4ds.had.co.nz/)
 * [*MODERN DIVE: An Introduction to Statistical and Data Sciences via R* by Chester Ismay and Albert Y. Kim](https://moderndive.com/)
+* [*Feature Engineering and Selection: A Practical Approach for Predictive Models* by Max Kuhn and Kjell Johnson](http://www.feat.engineering/)
 * [*Tidy Text Mining with R* by Julia Silge and David Robinson](http://tidytextmining.com/)
 * [OnePageR](http://togaware.com/onepager/)
 * [*Interpretable Machine Learning* by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
