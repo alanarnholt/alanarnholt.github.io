@@ -22,6 +22,7 @@ output: html_document
 * [STT 2810](https://stat-ata-asu.github.io/STT2810ClassRepo/)
 * [AsULearn](https://asulearn.appstate.edu/)
 * [Miscellaneous Statistics](https://alanarnholt.github.io/GeneralStatistics/)
+* [UPNA](http://unavarra.es) [Short Course: May 2020](https://stat-ata-asu.github.io/UPNA-Short_Course_2020/)
 
 
 * * *
