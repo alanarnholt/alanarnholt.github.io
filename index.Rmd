@@ -6,9 +6,6 @@ title: "Welcome!"
 <img src="./images/Alan.png" alt="Alan" align="left" hspace="20" style="width:80px;height:100px;">
 </figure>
 
-<figure>
-<img src="./images/CNQ86.png" alt="CNQ*^" align="right" hspace="20" style="width:80px;height:100px;">
-</figure>
 
 
  
