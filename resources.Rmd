@@ -154,6 +154,7 @@ Melissa Lee](https://ubc-dsci.github.io/introduction-to-datascience/)
 * [*Tidy Text Mining with R* by Julia Silge and David Robinson](http://tidytextmining.com/)
 * [OnePageR](http://togaware.com/onepager/)
 * [*Interpretable Machine Learning* by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+* [*Beyond Multiple Linear Regression*](https://bookdown.org/roback/bookdown-BeyondMLR/)
 
 
 ### $\LaTeX$  
