@@ -146,6 +146,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [*R for Data Science* by Garrett Grolemund and
 Hadley Wickham](http://r4ds.had.co.nz/)
 * [*MODERN DIVE: An Introduction to Statistical and Data Sciences via R* by Chester Ismay and Albert Y. Kim](https://moderndive.com/)
+* [*Introduction to Data Science* by Hui Lin and Ming Li](https://scientistcafe.com/ids/)
 * [*Introduction to Data Science* by Tiffany-Anne Timbers, Trevor Campbell and
 Melissa Lee](https://ubc-dsci.github.io/introduction-to-datascience/)
 * [The **caret** Package](http://topepo.github.io/caret/index.html)

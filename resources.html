@@ -28,6 +28,15 @@
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+      </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -564,6 +573,7 @@ div.tocify {
 <ul>
 <li><a href="http://r4ds.had.co.nz/"><em>R for Data Science</em> by Garrett Grolemund and Hadley Wickham</a></li>
 <li><a href="https://moderndive.com/"><em>MODERN DIVE: An Introduction to Statistical and Data Sciences via R</em> by Chester Ismay and Albert Y. Kim</a></li>
+<li><a href="https://scientistcafe.com/ids/"><em>Introduction to Data Science</em> by Hui Lin and Ming Li</a></li>
 <li><a href="https://ubc-dsci.github.io/introduction-to-datascience/"><em>Introduction to Data Science</em> by Tiffany-Anne Timbers, Trevor Campbell and Melissa Lee</a></li>
 <li><a href="http://topepo.github.io/caret/index.html">The <strong>caret</strong> Package</a></li>
 <li><a href="http://www.feat.engineering/"><em>Feature Engineering and Selection: A Practical Approach for Predictive Models</em> by Max Kuhn and Kjell Johnson</a></li>
@@ -670,7 +680,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
