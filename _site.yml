@@ -23,7 +23,7 @@ navbar:
     - text: ""
       icon: glyphicon-info-sign
       href: about.html
-    - icon: fa-github fa-lg
+    - text: "GitHub"
       href: https://github.com/alanarnholt/alanarnholt.github.io/  
     
 
