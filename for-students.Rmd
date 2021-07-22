@@ -6,9 +6,9 @@ output:
     toc_float:
       collapsed: false
 ---
-## Office Hours <i class="fa fa-clock-o"></i> Spring 2021
+## Office Hours <i class="fa fa-clock-o"></i> Fall 2021
 
-My office is in 237 Walker Hall. Students may click [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUtZb3I1Z1pFczdjfGRlZmF1bHR8MTZjOTU5MGY0ZTFlOTA2MmExNzhlYWQ5MGIzZWQ0OGM) to schedule an appointment. Zoom Office hours are MWF 1:00 PM to 2:00 PM; and by appointment. 
+My office is in 237 Walker Hall. Students may click [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUtZb3I1Z1pFczdjfGRlZmF1bHR8MTZjOTU5MGY0ZTFlOTA2MmExNzhlYWQ5MGIzZWQ0OGM) to schedule an appointment. 
 
 ```{r, echo = FALSE}
 # df <- data.frame(Time = c("6:00-9:00", "10:00-10:50", "11:00-11:50", "12:00-12:45", "12:45-1:45", "2:00-3:15"), 
