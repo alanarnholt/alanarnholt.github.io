@@ -4,7 +4,7 @@ output: html_document
 ---
 
 <figure>
-<img src="./images/CropAlaynaSui.jpg" alt="Alayna" align="left" hspace="20" style="width:100px;height:100px;">
+<img src="./images/CropAlaynaSui.jpg" alt="Alayna" align="right" hspace="20" style="width:100px;height:100px;">
 </figure>
 
 
