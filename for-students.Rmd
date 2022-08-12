@@ -6,7 +6,7 @@ output:
     toc_float:
       collapsed: false
 ---
-## Office Hours <i class="fa fa-clock-o"></i> Fall 2021
+## Office Hours <i class="fa fa-clock-o"></i> Fall 2022
 
 My office is in 237 Walker Hall. Students may click [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUtZb3I1Z1pFczdjfGRlZmF1bHR8MTZjOTU5MGY0ZTFlOTA2MmExNzhlYWQ5MGIzZWQ0OGM) to schedule an appointment. 
 
