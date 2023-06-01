@@ -4,8 +4,9 @@ output:
   html_document:
     toc: true
     toc_float:
-      collapsed: false
+      collapsed: true
 ---
+
 
 
 ### `r knitr::include_graphics("./images/r.png", dpi = 1500)` R
@@ -76,6 +77,8 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [Normal Distribution Calculator (with more features running on Alan's Droplet)](http://alanarnholt.com/shiny/NormApp3/)
 * [Sampling Distributions (running on Alan's Droplet)](http://alanarnholt.com/shiny/SamplingDist/)
 * [How to get your very own RStudio Server and Shiny Server with DigitalOcean](http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
+* [Building Dashboards with Shiny Tutorial](https://www.rstudio.com/resources/videos/building-dashboards-with-shiny-tutorial)
+* [Dynamic Dashboards with Shiny](https://www.rstudio.com/resources/webinars/dynamic-dashboards-with-shiny)
 
 ### `r knitr::include_graphics("./images/devtools.png", dpi = 300)` R Package Building
 
