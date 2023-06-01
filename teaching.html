@@ -13,7 +13,7 @@
 
 <title>Teaching</title>
 
-<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -298,25 +295,41 @@ $(document).ready(function () {
 </div>
 
 
-<p><i class="glyphicon glyphicon-star"></i> This page will serve as a directory for courses from Fall 2016 forward. <i class="glyphicon glyphicon-thumbs-up"></i></p>
+<p><i class="glyphicon glyphicon-star"></i> This page will serve as a
+directory for courses from Fall 2016 forward.
+<i class="glyphicon glyphicon-thumbs-up"></i></p>
 <div id="classes" class="section level2">
 <h2>Classes</h2>
 <ul>
-<li><a href="https://github.com/STAT-ATA-ASU">Course Repositories</a></li>
-<li><a href="https://stat-ata-asu.github.io/STT5812CourseRepo/">STT 5812</a></li>
-<li><a href="https://stat-ata-asu.github.io/STT5811ClassRepo/">STT 5811</a></li>
-<li><a href="https://stat-ata-asu.github.io/MAT4010CourseRepo/">MAT 4010</a></li>
-<li><a href="https://StatisticalModeling.github.io/DataScience_2/">STT 3860 - Data Science II</a></li>
-<li><a href="https://stat-ata-asu.github.io/STT3851ClassRepo/">STT 3851</a></li>
+<li><a href="https://github.com/STAT-ATA-ASU">Course
+Repositories</a></li>
+<li><a href="https://stat-ata-asu.github.io/STT5812CourseRepo/">STT
+5812</a></li>
+<li><a href="https://stat-ata-asu.github.io/STT5811ClassRepo/">STT
+5811</a></li>
+<li><a href="https://stat-ata-asu.github.io/MAT4010CourseRepo/">MAT
+4010</a></li>
+<li><a href="https://StatisticalModeling.github.io/DataScience_2/">STT
+3860 - Data Science II</a></li>
+<li><a href="https://stat-ata-asu.github.io/STT3851ClassRepo/">STT
+3851</a></li>
 <li><a href="https://alanarnholt.github.io/STT3850/">STT 3850</a></li>
-<li><a href="https://stat-ata-asu.github.io/STT3830ClassRepo/">STT 3830</a></li>
-<li><a href="https://stat-ata-asu.github.io/DataScience_1/">STT 2860 - Data Science I</a></li>
+<li><a href="https://stat-ata-asu.github.io/STT3830ClassRepo/">STT
+3830</a></li>
+<li><a href="https://stat-ata-asu.github.io/DataScience_1/">STT 2860 -
+Data Science I</a></li>
 <li><a href="https://stat-ata-asu.github.io/STT2820/">STT 2820</a></li>
-<li><a href="https://stat-ata-asu.github.io/STT2810HonorsClassRepo/">STT 2810 Honors</a></li>
-<li><a href="https://stat-ata-asu.github.io/STT2810ClassRepo/">STT 2810</a></li>
+<li><a href="https://stat-ata-asu.github.io/STT2810HonorsClassRepo/">STT
+2810 Honors</a></li>
+<li><a href="https://stat-ata-asu.github.io/STT2810ClassRepo/">STT
+2810</a></li>
 <li><a href="https://asulearn.appstate.edu/">AsULearn</a></li>
-<li><a href="https://alanarnholt.github.io/GeneralStatistics/">Miscellaneous Statistics</a></li>
-<li><a href="https://stat-ata-asu.github.io/UPNA-Short_Course_2020/">UPNA Short Course: May 25-27, 2020</a></li>
+<li><a
+href="https://alanarnholt.github.io/GeneralStatistics/">Miscellaneous
+Statistics</a></li>
+<li><a
+href="https://stat-ata-asu.github.io/UPNA-Short_Course_2020/">UPNA Short
+Course: May 25-27, 2020</a></li>
 </ul>
 <hr />
 </div>
