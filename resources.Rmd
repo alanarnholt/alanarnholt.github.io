@@ -20,8 +20,6 @@ output:
 and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 * [*Advanced R Development* by Hadley Wickham](http://adv-r.had.co.nz/)
 * [*Advanced R Solutions* by Malte Grosser and Henning Bumann](https://bookdown.org/Tazinho/Advanced-R-Solutions/)
-* [_Functional Programming and Unit Testing for Data Munging with R_](http://www.brodrigues.co/fput/)
-* [YaRrr! The Pirate's Guide to R by Nathaniel D. Phillips](http://nathanieldphillips.com/thepiratesguidetor/)
 * [Roger Peng's Computing for Data Analysis Videos](http://bit.ly/UC5UDc)
 * [Learning Statistics/R on youtube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
 * [DataCamp](https://www.datacamp.com/home)
@@ -30,12 +28,11 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 * [Why Use Docker with R?](https://www.opencpu.org/posts/opencpu-with-docker/)
 
 ### `r knitr::include_graphics("./images/rstudio.jpg", dpi = 1200)` RStudio
-* [ASU RStudio Server](https://mathr.math.appstate.edu/)
-* [RStudio (IDE)](http://rstudio.org/)
-* [RStudio (IDE) preview relase](https://www.rstudio.com/ide/download/preview)
-* [RStudio Documentation](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
-* [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
-* [RStudio Easy Tricks for V1.0](https://www.rstudio.com/rviews/2016/11/11/easy-tricks-you-mightve-missed/)
+* [ASU RStudio Server](https://mathr.appstate.edu/)
+* [RStudio (IDE)](https://posit.co/)
+* [RStudio Documentation](https://support.posit.co/hc/en-us/categories/200035113-Documentation)
+* [RStudio Cheat Sheets](https://posit.co/resources/cheatsheets/)
+
 
 
 ### `r knitr::include_graphics("./images/DataCamp.png", dpi = 120)` Data Camp
@@ -47,33 +44,27 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 
 * [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
 * [The `R` Graph Gallery](http://www.r-graph-gallery.com/)
-* [`ggplot2` documentation](http://docs.ggplot2.org/current/)
-* [`ggplot2` Main Page](http://ggplot2.org/)
-* [`ggplot2` Book](http://ggplot2.org/book/)
-* [Cookbook for R](http://www.cookbook-r.com/Graphs/)
+* [`ggplot2`: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 * [Lattice: Multivariate Data Visualization with R - Figures and code](http://lmdvr.r-forge.r-project.org/figures/figures.html)
-* [Graph Catalog `ggplot2`](http://shinyapps.stat.ubc.ca/r-graph-catalog/)
 * [The Grammar and Graphics of Data Science (Video)](https://www.rstudio.com/resources/webinars/the-grammar-and-graphics-of-data-science/) (58:50)
 * [`plotly` for R](https://cpsievert.github.io/plotly_book/)
 * [Plotly tutorial: Plotly and R](https://www.datacamp.com/community/open-courses/plotly-tutorial-plotly-and-r)
-* [*Interactive Data Visualization (2nd Day)* by
-Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
-* [DiagrammeR](http://rich-iannone.github.io/DiagrammeR/)
+* [DiagrammeR](https://rich-iannone.github.io/DiagrammeR/)
 
 
 ### `r knitr::include_graphics("./images/shiny.png", dpi = 300)` Shiny Apps
 
 
-* [Shiny](http://shiny.rstudio.com/)
+* [Shiny](https://shiny.posit.co/)
 * [shinyapps.io server](https://shinyapps.io)
 * [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
-* [Shiny Apps Documentation](http://docs.rstudio.com/shinyapps.io/)
-* [Shiny Cheatsheet](https://www.rstudio.com/resources/cheatsheets/)
-* [Building Shiny Apps](http://stat545.com/shiny01_activity.html)
+* [Shiny Apps Documentation](https://docs.posit.co/shinyapps.io/)
+* [Shiny Cheatsheet](https://posit.co/resources/cheatsheets/)
+* [Building Shiny Apps](https://stat545.com/shiny-tutorial.html)
 * [Simulating Confidence Intervals (running on RStudio Shiny Apps server)](https://alanarnholt.shinyapps.io/CISIMG)
 * [Normal Distribution Calculator (running on ASU's connect server)](https://mathr.appstate.edu/connect/content/62bcf958-4d89-4d3d-b87a-8a0ba7d4532b)
 * [Normal Distribution Calculator (running on RStudio Shiny Apps server)](https://alanarnholt.shinyapps.io/norm_area2/)
-* [How to get your very own RStudio Server and Shiny Server with DigitalOcean](http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
+* [How to get your very own RStudio Server and Shiny Server with DigitalOcean](https://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
 * [Building Dashboards with Shiny Tutorial](https://posit.co/resources/videos/building-dashboards-with-shiny-tutorial-joe-cheng/)
 * [Dynamic Dashboards with Shiny](https://www.youtube.com/watch?v=tmHh89VTanw)
 
@@ -82,7 +73,7 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [_R Packages_ by Hadley Wickham](http://r-pkgs.had.co.nz/)
 * [*Mastering Software Development in R* by Roger D. Peng, Sean Kross, and Brooke Anderson](https://bookdown.org/rdpeng/RProgDA/)
 * [`packagedocs`](http://hafen.github.io/packagedocs/)
-* [`pkgdown`](https://hadley.github.io/pkgdown/)
+* [`pkgdown`](https://pkgdown.r-lib.org/)
 
 
 
@@ -95,12 +86,12 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 
 ### `r knitr::include_graphics("./images/knitr.png", dpi = 300)`Reproducible Analysis
 
-* [`knitr` Homepage](http://yihui.name/knitr/)
+* [`knitr` Homepage](https://yihui.org/knitr/)
 * [`knitr` Package Development on GitHub](https://github.com/yihui/knitr)
 * [*Bookdown: Authoring Books with R Markdown* by Yihui Xie](https://bookdown.org/yihui/bookdown/)
 * [*Reproducible Research with* R/RStudio Development on GitHub](https://github.com/christophergandrud/Rep-Res-Book)
-* [CRAN views of Reproducible Analysis](http://cran.r-project.org/web/views/ReproducibleResearch.html)
-* [Reproducible Reporting (Video)](https://www.rstudio.com/resources/webinars/reproducible-reporting/) (58:03)
+* [CRAN views of Reproducible Analysis](https://cran.r-project.org/web/views/ReproducibleResearch.html)
+* [Reproducible Reporting (Video)](https://posit.co/resources/videos/reproducible-reporting/) (58:03)
 * [*Getting used to R, RStudio, and R Markdown* by Chester Ismay](https://ismayc.github.io/rbasics-book/)
 * [*My Final College Paper* by Chester Ismay](https://ismayc.github.io/thesisdown_book/index.html)
 * [*A Guide to Reproducible Code in Ecology and Evolution*](http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
@@ -111,46 +102,42 @@ Paul C. Bauer and Richard Traunmüller](https://bookdown.org/paulcbauer/idv2/)
 * [*R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire, and Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 * [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 * [R Markdown V2](http://rmarkdown.rstudio.com)
-* [Using R Markdown](https://support.rstudio.com/hc/en-us/sections/200149716-R-Markdown)
-* [Getting started with R Markdown (Video)](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/) (1:02:44)
-* [Markdown](http://daringfireball.net/projects/markdown/)
+* [Getting started with R Markdown (Video)](https://posit.co/resources/videos/getting-started-with-r-markdown/) (1:02:44)
+* [Markdown](https://daringfireball.net/projects/markdown/)
   
 
 ### `r knitr::include_graphics("./images/rmarkdown.png", dpi = 300)` Creating Slides with R
-* [R Markdown - ioslides, reveal.js, Slidy, and Beamer](http://rmarkdown.rstudio.com/ioslides_presentation_format.html#overview)
+* [R Markdown - ioslides, reveal.js, Slidy, and Beamer](https://bookdown.org/yihui/rmarkdown/ioslides-presentation.html#overview)
 * [`xaringan`](https://github.com/yihui/xaringan)
-* [R Presentations](https://support.rstudio.com/hc/en-us/sections/200130218-R-Presentations)
+* [R Presentations](https://support.posit.co/hc/en-us/sections/200130218-R-Presentations)
 
 
 ### `r knitr::include_graphics("./images/git.jpg", dpi = 450)` Git
-* [*Happy Git and GitHub for the useR* by Jenny Bryan and the STAT 545 TAs](http://happygitwithr.com/)
-* [Download Git](http://git-scm.com)
+* [*Happy Git and GitHub for the useR* by Jenny Bryan and the STAT 545 TAs](https://happygitwithr.com/)
+* [Download Git](https://git-scm.com/)
 * [GitHub Help Page](https://help.github.com/)
-* [Git Tutorials (bitbucket)](https://www.atlassian.com/git/tutorial)
-* [Create a Project](http://gitimmersion.com/lab_03.html)
-* [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
+* [Create a Project](https://gitimmersion.com/lab_03.html)
+* [Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html)
 * [Free Code School Intro to Git](https://www.codeschool.com/courses/try-git)
-* [Pro Git Book](http://git-scm.com/book)
-* [Try Git on GitHub](http://try.github.io/levels/1/challenges/1)
-* [Phillip Guo's Basic Git and Github tutorials (Three tutorials about 10 minutes each)](http://www.pgbovine.net/git-tutorial.htm)
+* [Pro Git Book](https://git-scm.com/book)
+* [Try Git on GitHub](https://try.github.io/levels/1/challenges/1)
 * [Clone a GitHub Repo with RStudio (Video)](https://www.youtube.com/watch?v=YxZ8J2rqhEM) (5:05)
 * [Clone a GitHub Repo with RStudio (Slides)](https://github.com/alanarnholt/Homework-Examples/blob/master/Slides/ForkCloneRStudio.pdf)
-* [Collaboration and time travel: version control with git, github and RStudio (Video)](https://www.rstudio.com/resources/webinars/collaboration-and-time-travel-version-control-with-git-github-and-rstudio/) (48:56)
+* [Collaboration and time travel: version control with git, github and RStudio (Video)](https://posit.co/resources/videos/collaboration-and-time-travel-version-control-with-git-github-and-rstudio/) (48:56)
 
 ### `r knitr::include_graphics("./images/linux2.png", dpi = 2500)` Using Unix Like Commands
-* [Play Terminus to learn basics of the shell](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-* [Phillip Guo's Unix-like command line tutorials (Four tutorials about 10 minutes each)](http://www.pgbovine.net/command-line-tutorial.htm)
+* [Play Terminus to learn basics of the shell](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 * [Michael Stonebank's Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
 ### Data Science
 * [*R for Data Science* by Garrett Grolemund and
-Hadley Wickham](http://r4ds.had.co.nz/)
+Hadley Wickham](https://r4ds.hadley.nz/)
 * [*MODERN DIVE: An Introduction to Statistical and Data Sciences via R* by Chester Ismay and Albert Y. Kim](https://moderndive.com/)
 * [*Introduction to Data Science* by Hui Lin and Ming Li](https://scientistcafe.com/ids/)
 * [*Introduction to Data Science* by Tiffany-Anne Timbers, Trevor Campbell and
-Melissa Lee](https://ubc-dsci.github.io/introduction-to-datascience/)
-* [The **caret** Package](http://topepo.github.io/caret/index.html)
-* [*Feature Engineering and Selection: A Practical Approach for Predictive Models* by Max Kuhn and Kjell Johnson](http://www.feat.engineering/)
+Melissa Lee](http://datasciencebook.ca/)
+* [The **caret** Package](https://topepo.github.io/caret/index.html)
+* [*Feature Engineering and Selection: A Practical Approach for Predictive Models* by Max Kuhn and Kjell Johnson](https://www.feat.engineering/)
 * [Tidymodels](https://www.tidymodels.org/)
 * [*Tidy Text Mining with R* by Julia Silge and David Robinson](http://tidytextmining.com/)
 * [OnePageR](http://togaware.com/onepager/)
