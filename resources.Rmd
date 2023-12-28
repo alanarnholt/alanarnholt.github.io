@@ -32,6 +32,7 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 * [RStudio (IDE)](https://posit.co/)
 * [RStudio Documentation](https://support.posit.co/hc/en-us/categories/200035113-Documentation)
 * [RStudio Cheat Sheets](https://posit.co/resources/cheatsheets/)
+* [POSIT Cloud](https://posit.cloud/)
 
 
 
