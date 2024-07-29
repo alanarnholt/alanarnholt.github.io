@@ -10,21 +10,21 @@ output:
 
 
 ### `r knitr::include_graphics("./images/r.png", dpi = 1500)` R
-* [R homepage](http://www.r-project.org/)
-* [Download R](http://cran.r-project.org/)
-* [Quick R (all types of examples)](http://www.statmethods.net/index.html)
-* [An Introduction to R](http://cran.r-project.org/doc/manuals/r-release/R-intro.html)
+* [R homepage](https://www.r-project.org/)
+* [Download R](https://cran.r-project.org/)
+* [Quick R (all types of examples)](https://www.statmethods.net/index.html)
+* [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
 * [*R Programming for Data Science* by Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/)
 * [*Exploratory Data Analysis with R* by Roger D. Peng](https://bookdown.org/rdpeng/exdata/)
 * [*Efficient R programming* by Colin Gillespie
 and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
-* [*Advanced R Development* by Hadley Wickham](http://adv-r.had.co.nz/)
+* [*Advanced R Development* by Hadley Wickham](https://adv-r.had.co.nz/)
 * [*Advanced R Solutions* by Malte Grosser and Henning Bumann](https://bookdown.org/Tazinho/Advanced-R-Solutions/)
-* [Roger Peng's Computing for Data Analysis Videos](http://bit.ly/UC5UDc)
-* [Learning Statistics/R on youtube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
+* [Roger Peng's Computing for Data Analysis Videos](https://bit.ly/UC5UDc)
+* [Learning Statistics/R on youtube](https://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
 * [DataCamp](https://www.datacamp.com/home)
 * [Free Code School intro R Course](https://www.codeschool.com/courses/try-r)
-* [swirl](http://swirlstats.com) "swirl teaches you R programming and data science interactively, at your own pace, and right in the R console"
+* [swirl](https://swirlstats.com) "swirl teaches you R programming and data science interactively, at your own pace, and right in the R console"
 * [Why Use Docker with R?](https://www.opencpu.org/posts/opencpu-with-docker/)
 
 ### `r knitr::include_graphics("./images/rstudio.jpg", dpi = 1200)` RStudio
@@ -44,9 +44,9 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 ### `r knitr::include_graphics("./images/ggplot2.png", dpi = 300)` Graphics
 
 * [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
-* [The `R` Graph Gallery](http://www.r-graph-gallery.com/)
+* [The `R` Graph Gallery](https://www.r-graph-gallery.com/)
 * [`ggplot2`: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
-* [Lattice: Multivariate Data Visualization with R - Figures and code](http://lmdvr.r-forge.r-project.org/figures/figures.html)
+* [Lattice: Multivariate Data Visualization with R - Figures and code](https://lmdvr.r-forge.r-project.org/figures/figures.html)
 * [The Grammar and Graphics of Data Science (Video)](https://www.rstudio.com/resources/webinars/the-grammar-and-graphics-of-data-science/) (58:50)
 * [`plotly` for R](https://cpsievert.github.io/plotly_book/)
 * [Plotly tutorial: Plotly and R](https://www.datacamp.com/community/open-courses/plotly-tutorial-plotly-and-r)
@@ -73,7 +73,7 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 
 * [_R Packages_ by Hadley Wickham](http://r-pkgs.had.co.nz/)
 * [*Mastering Software Development in R* by Roger D. Peng, Sean Kross, and Brooke Anderson](https://bookdown.org/rdpeng/RProgDA/)
-* [`packagedocs`](http://hafen.github.io/packagedocs/)
+* [`packagedocs`](https://hafen.github.io/packagedocs/)
 * [`pkgdown`](https://pkgdown.r-lib.org/)
 
 
@@ -81,8 +81,8 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 ### `r knitr::include_graphics("./images/dplyr.png", dpi = 300)` Using [`dplyr`](https://cran.r-project.org/web/packages/dplyr/index.html)
 
 * [Introduction to `dplyr` vignette](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
-* [`dplyr` video1-tutorial](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
-* [`dplyr` video2-tutorial](http://www.dataschool.io/dplyr-tutorial-part-2/)
+* [`dplyr` video1-tutorial](https://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
+* [`dplyr` video2-tutorial](https://www.dataschool.io/dplyr-tutorial-part-2/)
 
 
 ### `r knitr::include_graphics("./images/knitr.png", dpi = 300)`Reproducible Analysis
@@ -95,8 +95,8 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 * [Reproducible Reporting (Video)](https://posit.co/resources/videos/reproducible-reporting/) (58:03)
 * [*Getting used to R, RStudio, and R Markdown* by Chester Ismay](https://ismayc.github.io/rbasics-book/)
 * [*My Final College Paper* by Chester Ismay](https://ismayc.github.io/thesisdown_book/index.html)
-* [*A Guide to Reproducible Code in Ecology and Evolution*](http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
-* [*Good enough practices in scientific computing*](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+* [*A Guide to Reproducible Code in Ecology and Evolution*](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+* [*Good enough practices in scientific computing*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 
 
 ### `r knitr::include_graphics("./images/rmarkdown.png", dpi = 300)` R Markdown
@@ -128,7 +128,7 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 
 ### `r knitr::include_graphics("./images/linux2.png", dpi = 2500)` Using Unix Like Commands
 * [Play Terminus to learn basics of the shell](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-* [Michael Stonebank's Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+* [Michael Stonebank's Unix Tutorial for Beginners](https://www.ee.surrey.ac.uk/Teaching/Unix/)
 
 ### Data Science
 * [*R for Data Science* by Garrett Grolemund and
@@ -136,12 +136,12 @@ Hadley Wickham](https://r4ds.hadley.nz/)
 * [*MODERN DIVE: An Introduction to Statistical and Data Sciences via R* by Chester Ismay and Albert Y. Kim](https://moderndive.com/)
 * [*Introduction to Data Science* by Hui Lin and Ming Li](https://scientistcafe.com/ids/)
 * [*Introduction to Data Science* by Tiffany-Anne Timbers, Trevor Campbell and
-Melissa Lee](http://datasciencebook.ca/)
+Melissa Lee](https://datasciencebook.ca/)
 * [The **caret** Package](https://topepo.github.io/caret/index.html)
 * [*Feature Engineering and Selection: A Practical Approach for Predictive Models* by Max Kuhn and Kjell Johnson](https://www.feat.engineering/)
 * [Tidymodels](https://www.tidymodels.org/)
-* [*Tidy Text Mining with R* by Julia Silge and David Robinson](http://tidytextmining.com/)
-* [OnePageR](http://togaware.com/onepager/)
+* [*Tidy Text Mining with R* by Julia Silge and David Robinson](https://tidytextmining.com/)
+* [OnePageR](https://togaware.com/onepager/)
 * [*Interpretable Machine Learning* by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
 * [*Beyond Multiple Linear Regression*](https://bookdown.org/roback/bookdown-BeyondMLR/)
 * [*Databricks*---Databricks Community Edition](https://community.cloud.databricks.com/)
@@ -149,20 +149,20 @@ Melissa Lee](http://datasciencebook.ca/)
 
 ### $\LaTeX$  
 
-* [Download LaTeX for Macs (TeXLive)](http://tug.org/mactex/)
-* [Download LaTeX for Windows (MikTeX)](http://miktex.org/)
-* [More Math into LaTeX](http://www.ctan.org/pkg/math-into-latex-4)
-* [Getting started with LaTeX](http://www.tug.org/begin.html)
-* [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX) 
-* [Clever help finding LaTeX symbols](http://detexify.kirelabs.org/classify.html)
+* [Download LaTeX for Macs (TeXLive)](https://tug.org/mactex/)
+* [Download LaTeX for Windows (MikTeX)](https://miktex.org/)
+* [More Math into LaTeX](https://www.ctan.org/pkg/math-into-latex-4)
+* [Getting started with LaTeX](https://www.tug.org/begin.html)
+* [LaTeX Wikipedia](https://en.wikipedia.org/wiki/LaTeX) 
+* [Clever help finding LaTeX symbols](https://detexify.kirelabs.org/classify.html)
 
 ### Zotero
 
 * [Using Zotero](https://stat-ata-asu.github.io/STT2810HonorsClassRepo/RMarkdown/ZoteroInClass.html)
 
 ### Other Interesting Stuff
-* [R-bloggers](http://r-bloggers.com)
-* [John Chambers recounts the history of S and R](http://blog.revolutionanalytics.com/2014/01/john-chambers-recounts-the-history-of-s-and-r.html)
+* [R-bloggers](https://r-bloggers.com)
+* [John Chambers recounts the history of S and R](https://blog.revolutionanalytics.com/2014/01/john-chambers-recounts-the-history-of-s-and-r.html)
 
 * * *
 

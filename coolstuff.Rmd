@@ -21,15 +21,14 @@ output: html_document
 <img src="./images/AriaRockyKnob.jpeg" alt="Aria" align="right" hspace="20" style="width:100px;height:100px;">
 </figure>
 
-- [Masters Swimming](http://www.usms.org/)
-- [Fitness Log (USMS)](http://www.usms.org/myusms/flog/)
-- [USA Swimming](http://www.usaswimming.org/DesktopDefault.aspx)
-- [North Carolina Masters (Swimming)](http://www.ncmasters.org/)
-- [ASU Recreation Center](http://urec.appstate.edu/student-recreation-center)
-- [County Pool](http://www.wataugacounty.org/App_Pages/Dept/ParksRec/Aquatics/aquaticsHome.aspx)
+- [Masters Swimming](https://www.usms.org//)
+- [Fitness Log (USMS)](https://www.usms.org/myusms/flog/)
+- [USA Swimming](https://www.usaswimming.org/)
+- [North Carolina Masters (Swimming)](https://www.ncmasters.org/)
+- [Watauga County Pool](https://rec.watgov.org/)
 - [National Interscholastic Cycling Association (NICA)](https://www.nationalmtb.org/)
-- [North Carolina NICA](http://www.northcarolinamtb.org/)
-- [Ray's Weather Center](http://booneweather.com/)
+- [North Carolina NICA](https://northcarolinamtb.org/)
+- [Ray's Weather Center](https://raysweather.com/Forecast/Boone)
 
 
 
