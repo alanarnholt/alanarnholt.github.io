@@ -32,6 +32,6 @@ output:
     theme: yeti
     highlight: textmate
     include:
-      after_body: footer.html
+      after-body: footer.html
     css: alans.css  
       
