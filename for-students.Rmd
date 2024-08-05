@@ -8,7 +8,7 @@ output:
 ---
 ## Office/Help Hours <i class="fa fa-clock-o"></i> 
 
-My office is in 237 Walker Hall. Click [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUtZb3I1Z1pFczdjfGRlZmF1bHR8MTZjOTU5MGY0ZTFlOTA2MmExNzhlYWQ5MGIzZWQ0OGM) to schedule an appointment. 
+My office is in 237 Walker Hall. Click [here](https://calendar.app.google/5CBxwnxz92QkaNnJ6) to schedule an appointment. 
 
 ```{r, echo = FALSE}
 # df <- data.frame(Time = c("6:00-9:00", "10:00-10:50", "11:00-11:50", "12:00-12:45", "12:45-1:45", "2:00-3:15"), 

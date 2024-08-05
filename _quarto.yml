@@ -1,0 +1,37 @@
+
+name: "alanarnholt.github.io"
+output_dir: "."
+navbar:
+  title: "Alan T. Arnholt"
+  left:
+    - text: "For Students"
+      href: for-students.html
+    - text: "Resources"
+      href: resources.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Misc. Stats"
+      href: https://alanarnholt.github.io/GeneralStatistics/
+    - text: "Software"
+      href: software.html
+    - text: "Scholarship"
+      href: scholarship.html
+    - text: "Cool Stuff"
+      href: coolstuff.html
+    
+  right:
+    - text: ""
+      icon: glyphicon-info-sign
+      href: about.html
+    - icon: fa-github fa-lg
+      href: https://github.com/alanarnholt/alanarnholt.github.io/  
+    
+
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: alans.css  
+      
