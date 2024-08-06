@@ -4,8 +4,7 @@ title: "About"
 
 
 <figure>
-<figcaption> Alan circa 1983 </figcaption>
-<img src="./images/AlanCadet1983.jpg" alt="Alan" align="left" hspace="20" style="width:85px;height:100px;">
+<img src="./images/AlanCadet1985.jpg" alt="Alan" align="left" hspace="20" style="width:85px;height:100px;">
 </figure>
 
 <figure>
