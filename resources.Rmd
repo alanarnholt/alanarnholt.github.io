@@ -134,17 +134,20 @@ and Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 * [*R for Data Science* by Garrett Grolemund and
 Hadley Wickham](https://r4ds.hadley.nz/)
 * [*MODERN DIVE: An Introduction to Statistical and Data Sciences via R* by Chester Ismay and Albert Y. Kim](https://moderndive.com/)
+* [*Tidy Modeling with R*](https://www.tmwr.org/)
+* [*Feature Engineering and Selection: A Practical Approach for Predictive Models* by Max Kuhn and Kjell Johnson](https://www.feat.engineering/)
+* [Tidymodels](https://www.tidymodels.org/)
+* [*Tidy Text Mining with R* by Julia Silge and David Robinson](https://tidytextmining.com/)
+* [*Hands-On Machine Learning with R*](https://bradleyboehmke.github.io/HOML/)
 * [*Introduction to Data Science* by Hui Lin and Ming Li](https://scientistcafe.com/ids/)
 * [*Introduction to Data Science* by Tiffany-Anne Timbers, Trevor Campbell and
 Melissa Lee](https://datasciencebook.ca/)
 * [The **caret** Package](https://topepo.github.io/caret/index.html)
-* [*Feature Engineering and Selection: A Practical Approach for Predictive Models* by Max Kuhn and Kjell Johnson](https://www.feat.engineering/)
-* [Tidymodels](https://www.tidymodels.org/)
-* [*Tidy Text Mining with R* by Julia Silge and David Robinson](https://tidytextmining.com/)
 * [OnePageR](https://togaware.com/onepager/)
 * [*Interpretable Machine Learning* by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
 * [*Beyond Multiple Linear Regression*](https://bookdown.org/roback/bookdown-BeyondMLR/)
 * [*Databricks*---Databricks Community Edition](https://community.cloud.databricks.com/)
+
 
 
 ### $\LaTeX$  
